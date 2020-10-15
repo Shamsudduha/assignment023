@@ -1,0 +1,99 @@
+body{
+	margin:0px;
+	font-family: Segoe UI;
+	font-weight: lighter;
+}
+img{
+	max-width: 100%;
+}
+.google{
+	width: 90px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+.bar{
+	background-color: #eae3e3;
+	width: auto;
+	height: 3px;
+	margin-top: 0px
+	margin-bottom:0px;
+	margin-left: auto;
+	margin-right: auto;
+}
+.three{
+	
+	font-size: 32px;
+	width: 100%;
+	height: 120px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 25px;
+	
+}
+.a{
+ color: #659cf4;
+}
+.b{
+	color: #E84032;
+}
+.c{
+	color: #3DAB5B;
+}
+.d{
+	color: #F9B848;
+}
+
+
+.pic{
+	max-width: 100%;
+}
+.pictu{
+	margin-top: 45px;
+	margin-bottom: 45px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
+.text2{
+margin-top: 30px;
+	margin-bottom: 45px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+}
+.texo{
+	font-weight: bold;
+	font-size: 42px;
+	line-height: 50px;
+	margin-bottom: 0px;
+}
+.texob{
+	margin-top: 10px;
+	font-size: 12px;
+}
+.last{
+	margin-top: 30px;
+	margin-bottom: 45px;
+	margin-right: auto;
+	margin-left: auto;
+	width: 800px;
+	height: 300px;
+	background-color: #3DAB5B;
+}
+.lasto{
+	
+	width: 600px;
+	color: white;
+	padding-right: 50px;
+	padding-left: 50px;
+	padding-top: 100px;
+	padding-bottom: 100px;
+	font-size: 42px;
+	font-weight: bold;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+
+}
